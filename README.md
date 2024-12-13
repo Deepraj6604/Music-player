@@ -2,7 +2,6 @@
 
 install vite
 
-run command
-
-npm i
-npm run dev
+run command--
+- npm i
+- npm run dev
